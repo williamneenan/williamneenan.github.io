@@ -12,7 +12,7 @@
     <meta name="keywords" content="william neenan, bill neenan, actor, british actor, voiceover, William Neenan, Bill Neenan, Eccentric Dancing" />
     <meta name="language" content="EN-US" />
     <meta name="author" content="jb maddox" />
-    <meta name="copyright" content="1995-<?php echo date("Y"); ?> william neenan" />
+    <meta name="copyright" content="1995-2019 william neenan" />
     <meta name="robots" content="INDEX, FOLLOW" />
     <meta name="revisit-after" content="7 days" />
     <meta name="reply-to" content="bill@williamneenan.com" />
@@ -75,7 +75,7 @@
 
 
       <div class="footer">
-        <p>&copy; William Neenan <?php echo date('Y'); ?></p>
+        <p>&copy; William Neenan 2019</p>
       </div>
 
     </div> <!-- /container -->
